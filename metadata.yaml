@@ -1,0 +1,36 @@
+_repo: Souvenirs-d-un-sexag-naire-Tome-IV_24549
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arnault, A.-V. (Antoine-Vincent)
+    birthdate: 1766
+    deathdate: 1834
+    gutenberg_agent_id: '25461'
+    url: http://www.gutenberg.org/2009/agents/25461
+    wikipedia: http://en.wikipedia.org/wiki/Antoine-Vincent_Arnault
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24549'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Personal narratives'
+- !lcc 'DC'
+- !lcsh 'Theater -- France -- Paris'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+- !lcsh 'France -- History, Military -- 1789-1815'
+- !lcsh 'Authors -- Correspondence, reminiscences, etc.'
+- !lcsh 'Italy -- Description and travel'
+- !lcsh 'Arnault, A.-V. (Antoine-Vincent), 1766-1834'
+- !lcc 'PQ'
+- !lcsh 'Malta -- History'
+title: Souvenirs d'un sexagénaire, Tome IV
+url: http://www.gutenberg.org/ebooks/24549
